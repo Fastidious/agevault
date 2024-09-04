@@ -10,7 +10,7 @@ import (
 	"filippo.io/age"
 	"github.com/Fastidious/agevault/internal/archive"
 	"github.com/Fastidious/agevault/internal/crypt"
-	"github.com/Fastidous/agevault/internal/shredder"
+	"github.com/Fastidious/agevault/internal/shredder"
 	"github.com/Fastidious/agevault/internal/utils"
 )
 
