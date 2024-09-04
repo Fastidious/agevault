@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ndavd/agevault/internal/utils"
+	"github.com/Fastidious/agevault/internal/utils"
 )
 
 func TarDirectory(inputSource string, destinationWriter io.Writer) error {
