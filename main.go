@@ -8,10 +8,10 @@ import (
 	"strings"
 
 	"filippo.io/age"
-	"github.com/ndavd/agevault/internal/archive"
-	"github.com/ndavd/agevault/internal/crypt"
-	"github.com/ndavd/agevault/internal/shredder"
-	"github.com/ndavd/agevault/internal/utils"
+	"github.com/Fastidious/agevault/internal/archive"
+	"github.com/Fastidious/agevault/internal/crypt"
+	"github.com/Fastidous/agevault/internal/shredder"
+	"github.com/Fastidious/agevault/internal/utils"
 )
 
 func Version() string {
