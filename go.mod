@@ -1,4 +1,4 @@
-module github.com/ndavd/agevault
+module github.com/Fastidious/agevault
 
 go 1.23.0
 
