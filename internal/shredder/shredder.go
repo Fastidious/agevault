@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ndavd/agevault/internal/utils"
+	"github.com/Fastidious/agevault/internal/utils"
 )
 
 func ShredFile(path string, iterations int) error {
